@@ -1,4 +1,6 @@
 # Tic-Tac-Toe-Game.github.io
+[Deploy link is here](https://jaya-paliwal.github.io/Tic-Tac-Toe-Game.github.io/)
+
 ![WhatsApp Image 2022-06-25 at 2 23 04 PM](https://user-images.githubusercontent.com/91379324/175766250-4ca3c08f-fcaf-4ac7-ad0c-d940833de392.jpeg)
 
 In general in our game all what we need to do, is:
